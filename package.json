@@ -1,0 +1,17 @@
+{
+  "name": "aaj-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.6.11",
+    "apollo-server": "^2.9.16",
+    "nodemon": "^2.0.2"
+  }
+}
